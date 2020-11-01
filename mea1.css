@@ -1,0 +1,23 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(Blue.jpg);
+     background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+     background width: inherit;
+    background-color: white;
+
+    }
+h1{
+    margin-left: 450px}
+form{
+    margin-left: 450px;
+}
+p{
+    margin-left: 450px;
+}
+
+ 
